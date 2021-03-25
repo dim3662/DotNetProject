@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\DotNetProject\DotNetProjectDomain\obj\Debug\net5.0\DotNetProjectDomain.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\DotNetProject\DotNetProjectDomain\obj\Debug\net5.0\DotNetProjectDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\DotNetProject\DotNetProjectDomain\obj\Debug\net5.0\DotNetProjectDomain.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\DotNetProject\DotNetProjectDomain\obj\Debug\net5.0\DotNetProjectDomain.AssemblyInfo.cs
+C:\Users\User\RiderProjects\DotNetProject\DotNetProjectDomain\obj\Debug\net5.0\DotNetProjectDomain.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\DotNetProject\DotNetProjectDomain\bin\Debug\net5.0\DotNetProjectDomain.exe
+C:\Users\User\RiderProjects\DotNetProject\DotNetProjectDomain\bin\Debug\net5.0\DotNetProjectDomain.deps.json
+C:\Users\User\RiderProjects\DotNetProject\DotNetProjectDomain\bin\Debug\net5.0\DotNetProjectDomain.runtimeconfig.json
+C:\Users\User\RiderProjects\DotNetProject\DotNetProjectDomain\bin\Debug\net5.0\DotNetProjectDomain.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\DotNetProject\DotNetProjectDomain\bin\Debug\net5.0\DotNetProjectDomain.dll
+C:\Users\User\RiderProjects\DotNetProject\DotNetProjectDomain\bin\Debug\net5.0\ref\DotNetProjectDomain.dll
+C:\Users\User\RiderProjects\DotNetProject\DotNetProjectDomain\bin\Debug\net5.0\DotNetProjectDomain.pdb
+C:\Users\User\RiderProjects\DotNetProject\DotNetProjectDomain\obj\Debug\net5.0\DotNetProjectDomain.dll
+C:\Users\User\RiderProjects\DotNetProject\DotNetProjectDomain\obj\Debug\net5.0\ref\DotNetProjectDomain.dll
+C:\Users\User\RiderProjects\DotNetProject\DotNetProjectDomain\obj\Debug\net5.0\DotNetProjectDomain.pdb
+C:\Users\User\RiderProjects\DotNetProject\DotNetProjectDomain\obj\Debug\net5.0\DotNetProjectDomain.genruntimeconfig.cache
