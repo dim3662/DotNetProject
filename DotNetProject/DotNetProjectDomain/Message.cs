@@ -5,7 +5,7 @@ namespace DotNetProject
 {
     public class Message
     {
-        public Guid Id { get; set; }
+        public int Id { get; set; }
 
         public string message { get; }
 

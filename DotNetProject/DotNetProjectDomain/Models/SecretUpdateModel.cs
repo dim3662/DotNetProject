@@ -1,15 +1,18 @@
 ﻿using System;
 using DotNetProject.Contracts;
 
-namespace DotNetProject
+namespace DotNetProject.Models
 {
-    public class Secret : IMessageContainer
+    public class SecretUpdateModel : ISecretIdentity, IMessageContainer
     {
         public int Id { get; set; }
+
         public string Password { get; set; }
-        public Message Message { get; set; }
+
         public string Lifetime { get; set; }
+        
         public DateTime? CreatedAt { get; set; }
-        int? IMessageContainer.MessageId => this.Message.Id;
+
+        public int? MessageId { get; set; }
     }
 }
