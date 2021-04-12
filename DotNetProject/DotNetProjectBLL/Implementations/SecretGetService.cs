@@ -37,7 +37,7 @@ namespace DotNetProject.DotNetProjectBLL.Implementations
 
             if (secretContainer.SecretId.HasValue && secret == null)
             {
-                throw new InvalidOperationException($"Message not found by id {secretContainer.SecretId}");
+                throw new InvalidOperationException($"Secret not found by id {secretContainer.SecretId}");
             }
         }
 

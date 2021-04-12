@@ -37,7 +37,7 @@ namespace DotNetProject.DotNetProjectBLL.Implementations
 
             if (personContainer.PersonId.HasValue && person == null)
             {
-                throw new InvalidOperationException($"Message not found by id {personContainer.PersonId}");
+                throw new InvalidOperationException($"Person not found by id {personContainer.PersonId}");
             }
         }
 

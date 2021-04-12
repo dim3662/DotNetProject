@@ -5,6 +5,6 @@ namespace DotNetProject.DotNetProjectDataAccess.Contracts
 {
     public interface IMessageDataAccess
     {
-        Task<Message> GetByAsync(IMessageContainer departmentId);
+        Task<Message> GetByAsync(IMessageContainer messageId);
     }
 }

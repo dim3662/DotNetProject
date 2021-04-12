@@ -7,11 +7,11 @@ namespace DotNetProject.DotNetProjectDataAccess.Contracts
 {
     public interface ISecretDataAccess
     {
-        Task<Secret> InsertAsync(SecretUpdateModel employee);
+        Task<Secret> InsertAsync(SecretUpdateModel secret);
         Task<IEnumerable<Secret>> GetAsync();
-        Task<Secret> GetAsync(ISecretIdentity employeeId);
+        Task<Secret> GetAsync(ISecretIdentity secretId);
         
         Task<Secret> GetByAsync(ISecretContainer secretId);
-        Task<Secret> UpdateAsync(SecretUpdateModel employee);
+        Task<Secret> UpdateAsync(SecretUpdateModel secret);
     }
 }
