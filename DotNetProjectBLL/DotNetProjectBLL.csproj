@@ -1,8 +1,19 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <OutputType>Exe</OutputType>
         <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>DotNetProjecctBLL</RootNamespace>
     </PropertyGroup>
-
+    <ItemGroup>
+        <ProjectReference Include="..\DotNetProjectDomain\DotNetProjectDomain.csproj" />
+        <ProjectReference Include="..\DotNetProjectDataAccess\DotNetProjectDataAccess.csproj" />
+    </ItemGroup>
+    <ItemGroup>
+      <PackageReference Include="AutoFixture" Version="4.16.0" />
+      <PackageReference Include="AutoMapper" Version="10.1.1" />
+      <PackageReference Include="EntityFramework" Version="6.4.4" />
+      <PackageReference Include="FluentAssertions" Version="6.0.0-alpha0002" />
+      <PackageReference Include="Moq" Version="4.16.1" />
+      <PackageReference Include="NUnit" Version="3.13.1" />
+    </ItemGroup>
 </Project>
