@@ -7,7 +7,7 @@
     }
   },
   "ConnectionStrings": {
-    "EmployeeDirectory": "Server=(local);Database=EmployeeDirectory;Integrated Security=true;"
+    "SecretDirectory": "Server=(local);Database=EmployeeDirectory;Integrated Security=true;"
   },
   "AllowedHosts": "*"
 }
